@@ -1,0 +1,40 @@
+{
+  "admins": [
+    {
+      "id": "lxhtlxdk",
+      "url": "https://cdn.shopify.com/s/files/1/0648/3066/9017/products/getimage_ca6892c2-c64c-4d03-8454-803efd2aaaf2_360x.jpg?v=1678852737",
+      "title": "Eduction philoshopi",
+      "author": "Jay Roy",
+      "category": "Education"
+    },
+    {
+      "id": "lxlce6zl",
+      "url": "https://cdn.shopify.com/s/files/1/0648/3066/9017/products/91acgkcSDSL_360x.jpg?v=1686641102",
+      "title": "Maping the trial",
+      "author": "bhargav",
+      "category": "History"
+    },
+    {
+      "id": "lxlcge14",
+      "url": "https://cdn.shopify.com/s/files/1/0648/3066/9017/products/81BPe5OHIvL_360x.jpg?v=1686201029",
+      "title": "Hulk in coma",
+      "author": "Andrev tate",
+      "category": "Cartoon"
+    },
+    {
+      "id": "lxlcixin",
+      "url": "https://cdn.shopify.com/s/files/1/0648/3066/9017/files/71PgRehiuHL_360x.jpg?v=1683782222",
+      "title": "good Girls",
+      "author": "Anabella",
+      "category": "Horror"
+    },
+    {
+      "id": "lxlclwg6",
+      "url": "https://www.crossword.in/cdn/shop/products/9789390166930_1_b699c377-a14e-4f1f-9251-71022b3d7b96_460x.jpg?v=1662975976",
+      "title": "psyco",
+      "author": "hardik pandya",
+      "category": "psycology"
+    }
+  ],
+  "allbooks": []
+}

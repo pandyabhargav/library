@@ -1,0 +1,135 @@
+@import "@font/nunito";
+
+:root {
+  --fontFamily-nunito: 'Nunito', sans-serif;
+}
+* {
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: var(--fontFamily-nunito);
+}
+
+.nav-icon {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  color: rgb(241, 239, 239) !important;
+  text-decoration: none;
+}
+
+.nav-icon:hover {
+  color: black !important;
+}
+
+.bg-light {
+  width: 100%;
+  height: 100%;
+}
+
+.bg-lights h2,
+.bg-lights a {
+  font-size: 24px;
+  font-weight: 600;
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+}
+
+.card {
+  height: 430px !important;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px!important;
+  padding: 0px, 5px;
+}
+
+.card-img {
+  width: 100%;
+  height: 300px !important;
+  overflow: hidden !important;
+}
+.card-title {
+  font-size: 20px !important;
+  color: rgb(83, 83, 83) !important;
+  font-weight: 700 !important;
+}
+
+.card-text {
+  font-size: 16px !important;
+  color: rgb(87, 87, 87) !important;
+  font-weight: 600 !important;
+}
+
+.form{
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.card-body button{
+ border-radius: 50% !important;
+ padding: 50px;
+}
+
+.bg{
+  background-image: url("C:\Users\sales pc-4\Downloads\React-js-pr-8\React-js-pr-8\pr8\Client\public\image\book.avif");
+  background-color: transparent!important;
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.header{
+  position: relative;
+  z-index: 999999;
+}
+.bg-1{
+  background-image: url("https://media.istockphoto.com/id/1498878143/photo/book-stack-and-open-book-on-the-desk-in-modern-public-library.webp?b=1&s=170667a&w=0&k=20&c=T63zJBKuZLTUQwwAAwLzbMwtzAEdd4wZRaEV6EAdUnA=");
+  background-color: transparent!important;
+  width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0; 
+}
+.bg-2{
+  background-image: url("  https://img.freepik.com/free-photo/creative-composition-world-book-day_23-2148883765.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1718150400&semt=sph");
+  background-color: transparent!important;
+  width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0; 
+
+}
+.bt{
+  color: aliceblue;
+  background-color:#198754!important;
+  border-radius: 15px!important;
+  margin: 0, auto;
+}
+.bt-1{
+  color: aliceblue;
+  background-color: #DC3545!important;
+  border-radius: 15px!important;
+  margin: 0, auto;
+}
+.active{
+  background-color: transparent !important;
+  color: blue !important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
